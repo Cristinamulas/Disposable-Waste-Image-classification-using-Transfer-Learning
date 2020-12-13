@@ -34,9 +34,8 @@ For calculating the loss, I used a categorical cross entropy function. I used Ad
 The model with two dense FC layers and the dropout layers, trained with 100 epochs and a batch size of 100 with RMSprop optimizer gives the best results with a validation accuracy of 68.0%.
 
 
-#![alt text](https://github.com/Cristinamulas/Disposable-Waste-Image-classification-using-Transfer-Learning/blob/main/images/Screen%20Shot%202020-12-03%20at%204.48.39%20PM.png)
 
-<img src=https://github.com/Cristinamulas/Disposable-Waste-Image-classification-using-Transfer-Learning/blob/main/images/Screen%20Shot%202020-12-03%20at%204.48.39%20PM.png width="48">
+<img src=https://github.com/Cristinamulas/Disposable-Waste-Image-classification-using-Transfer-Learning/blob/main/images/Screen%20Shot%202020-12-03%20at%204.48.39%20PM.png width="480">
 
 
 
