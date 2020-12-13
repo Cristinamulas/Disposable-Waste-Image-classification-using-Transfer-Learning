@@ -38,5 +38,9 @@ The model with two dense FC layers and the dropout layers, trained with 100 epoc
 <img src=https://github.com/Cristinamulas/Disposable-Waste-Image-classification-using-Transfer-Learning/blob/main/images/Screen%20Shot%202020-12-03%20at%204.48.39%20PM.png width="480">
 
 
+<img src=https://github.com/Cristinamulas/Disposable-Waste-Image-classification-using-Transfer-Learning/blob/main/images/Screen%20Shot%202020-12-08%20at%2012.09.17%20PM.pn width="380">
+
+
+<img src=https://github.com/Cristinamulas/Disposable-Waste-Image-classification-using-Transfer-Learning/blob/main/images/Screen%20Shot%202020-12-08%20at%2012.16.19%20PM.png width="380">
 
 
