@@ -3,10 +3,10 @@
 ## Goal
 The motivation of this project is to build an image classifier capable of predicting disposable waste images into six different categories: cardboard, glass, metal, paper, plastic and trash.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Pkg-DKkObKs" target="_blank"><img src="http://img.youtube.com/vi/5TCdoWemSXI/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lHJqOE5j6xE target="_blank"><img src="http://img.youtube.com/vi/5TCdoWemSXI/0.jpg" 
 alt="Thomas Fan: Using Streamlit for Data Science" width="50%" /></a>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=lHJqOE5j6xE" target="_blank"><img src="http://img.youtube.com/vi/lHJqOE5j6xE/0.jpg 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lHJqOE5j6xE" target="_blank"><img src="http://img.youtube.com/vi/lHJqOE5j6xE/0.jpg"
 alt="Matti Picus:Contributing to NumPy" width="50%" /></a>
 
 
