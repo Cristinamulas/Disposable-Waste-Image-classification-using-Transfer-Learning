@@ -3,18 +3,6 @@
 ## Goal
 The motivation of this project is to build an image classifier capable of predicting disposable waste images into six different categories: cardboard, glass, metal, paper, plastic and trash.
 
-
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=lHJqOE5j6xE" target="_blank"><img src="http://img.youtube.com/vi/lHJqOE5j6xE/0.jpg"
-alt="Matti Picus:Contributing to NumPy" width="50%" /></a>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=y4fYxmE0HZM" target="_blank"><img src="http://img.youtube.com/vi/y4fYxmE0HZM/0.jpg" 
-alt="Nick Janetakis: Command Line Focused Development Environment" width="50%" /></a>
-
-
-
-
-
 ## Introduction
 
 This study aimed to build image classifiers in the domain of disposable waste images. With this project, I want to understand how to solve an image classification problem through using Transfer Learning. Transfer Learning is usually used in computer vision tasks where only a small amount of data is available. In this project, I’m going to implement a VGG16 model which is a pre-trained network. This model was pre-trained on the ImageNet dataset. I’m going to use this pre-trained architecture as a base model. Then, I will remove the fully connected layers and try different networks to classificate the images into six categories.
