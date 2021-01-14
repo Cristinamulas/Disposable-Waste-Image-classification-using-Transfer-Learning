@@ -8,9 +8,12 @@ The motivation of this project is to build an image classifier capable of predic
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lHJqOE5j6xE" target="_blank"><img src="http://img.youtube.com/vi/lHJqOE5j6xE/0.jpg"
 alt="Matti Picus:Contributing to NumPy" width="50%" /></a>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=lHJqOE5j6xE" target="_blank"><img src="http://img.youtube.com/vi/lHJqOE5j6xE/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TVe-uT_So6c" target="_blank"><img src="http://img.youtube.com/vi/TVe-uT_So6c/0.jpg" 
 alt="Marco Gorelli: Contributing to pandas" width="50%" /></a>
 
+
+
+https://youtu.be/TVe-uT_So6c?t=7
 
 ## Introduction
 
