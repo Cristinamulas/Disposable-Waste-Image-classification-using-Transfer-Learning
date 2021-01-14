@@ -3,7 +3,9 @@
 ## Goal
 The motivation of this project is to build an image classifier capable of predicting disposable waste images into six different categories: cardboard, glass, metal, paper, plastic and trash.
 
-<iframe width="1289" height="572" src="https://www.youtube.com/embed/Pkg-DKkObKs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Pkg-DKkObKs" target="_blank"><img src="https://youtu.be/Pkg-DKkObKs?t=363.jpg" 
+alt="Carol Willing: Contributing to Core Python" width="50%" /></a>
 
 ## Introduction
 
