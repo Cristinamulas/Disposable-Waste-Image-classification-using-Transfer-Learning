@@ -1,6 +1,3 @@
-<img width="640" alt="Screen Shot 2021-04-22 at 9 45 19 AM" src="https://user-images.githubusercontent.com/43222117/115725191-a02d4f80-a34f-11eb-9125-6d4d5c75b003.png">
-
-
 # Image classification Using Transfer Learning 
 
 ## Goal
