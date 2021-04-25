@@ -1,5 +1,10 @@
 # Image classification Using Transfer Learning 
 
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6dc7JgR8eI0" target="_blank"><img src="http://img.youtube.com/vi/6dc7JgR8eI0/0.jpg" 
+alt="Oriol Abril Pla: Bayesian Modeling with PyMC3" width="50%" /></a>
+
 ## Goal
 The motivation of this project is to build an image classifier capable of predicting disposable waste images into six different categories: cardboard, glass, metal, paper, plastic and trash.
 
