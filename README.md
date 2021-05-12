@@ -6,7 +6,7 @@
 alt="Oriol Abril Pla: Bayesian Modeling with PyMC3" width="50%" /></a>
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=q10mVlYQUbA" target="_blank"><img src="http://img.youtube.com/vi/G_XHSh66zW0/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=q10mVlYQUbA" target="_blank"><img src="http://img.youtube.com/vi/q10mVlYQUbA/0.jpg" 
 alt="Luisa Rebull: Astronomy Data & Image Processing" width="50%" /></a>
 
 
