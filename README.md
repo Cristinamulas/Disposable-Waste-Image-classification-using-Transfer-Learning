@@ -1,7 +1,7 @@
 # Image classification Using Transfer Learning 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=h92RMJi4mRM" target="_blank"><img src="http://img.youtube.com/vi/XKNdXN-Jfmo/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=h92RMJi4mRM" target="_blank"><img src="http://img.youtube.com/vi/h92RMJi4mRM/0.jpg" 
 alt="Rami Krispin: COVID-19 R Dashboard in Production" width="50%" /></a>
 
 ## Goal
