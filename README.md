@@ -1,3 +1,9 @@
+
+
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=EXHG-bLGT0Y" target="_blank"><img src="http://img.youtube.com/vi/EXHG-bLGT0Y/0.jpg"
+alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
+
+
 # Image classification Using Transfer Learning 
 
 
