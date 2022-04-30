@@ -1,7 +1,8 @@
 
 
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=EXHG-bLGT0Y" target="_blank"><img src="http://img.youtube.com/vi/EXHG-bLGT0Y/0.jpg"
-alt="Reshama Shaikh: An Example Pull Request to PyMC" width="50%" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=s5kUSMUaZLM" target="_blank"><img src="http://img.youtube.com/vi/s5kUSMUaZLM/0.jpg"
+alt="Rob Lanphier: Editing Wikipedia: Because Someone Has to..." width="50%" /></a>
+
 
 
 # Image classification Using Transfer Learning 
